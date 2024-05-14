@@ -1,6 +1,6 @@
 # Jailbreaking Censored/Aligned LLMs
 
-## Jailbreaking Aligned LLMs with ArtPrompt
+## Jailbreaking Aligned LLMs with ArtPrompt:
 
 ![Image-1792x1024](https://github.com/mejbass/Jailbreaking-Censored-Aligned-LLMs/assets/130122304/47d918b6-326b-4ed0-923e-572d9057cd5c)
 
